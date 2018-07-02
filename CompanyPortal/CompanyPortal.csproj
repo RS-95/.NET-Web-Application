@@ -103,16 +103,12 @@
     <Content Include="css\style.css" />
     <Content Include="fonts\bootstrap\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\icomoon\icomoon.svg" />
-    <Content Include="images\banner1.jpg" />
-    <Content Include="images\banner2.jpg" />
     <Content Include="images\big_1.jpg" />
     <Content Include="images\big_2.jpg" />
     <Content Include="images\big_3.jpg" />
     <Content Include="images\hero.jpg" />
     <Content Include="images\img_1.jpg" />
-    <Content Include="images\iocl.png" />
     <Content Include="images\loc.png" />
-    <Content Include="images\logo.png" />
     <Content Include="images\person1.jpg" />
     <Content Include="images\person2.jpg" />
     <Content Include="images\person3.jpg" />
